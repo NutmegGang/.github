@@ -6,14 +6,26 @@ This application was made to support the frontend of an online retail store. The
 
 Each member of the team was responsible for implementing different service of the application for a faster turnaround following the microservices architecture pipeline.
 
-- Sabrina Gortz - Customer Q&A API
-- Trevor Edwards - Customer Review API
+- [Sabrina Gortz](https://github.com/sgortz): [Customer Q&A API](https://github.com/NutmegGang/questions-answers-api)
+- Trevor Edwards: [Customer Review API]()
 - Will Atwood - [Products Catalog and Storage API](https://github.com/NutmegGang/Products)
 
+## Tech Stack
 
-<details>
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+    - [PG Admin](https://www.pgadmin.org/)
+    - [pg - npm](https://www.npmjs.com/package/pg)
+- [Artillery.io](https://www.artillery.io/)
+- [Loader.io](https://loader.io/)
+- [NGINX](https://www.nginx.com/)
+- [NMON](http://nmon.sourceforge.net/)
+- [AWS (EC2)]([https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjM462Ghfv3AhWajMgKHezYCeYYABAAGgJxdQ&ae=2&ohost=www.google.com&cid=CAESauD2zK5JKos1eZiWB0Wsso-nsoPpMSgsBm0yLrevC6a0w8k-1O-oMhCisvF2KjYmva1DHsIM6cv9tWhESGoggscLObNtK6q7jlXp9Uw0B_zEtSxwOEY7ZCRw6Siv2v6tPDQ_rTwkytYbGZM&sig=AOD64_3mn0f2qAg12yEmKxwaEJdFPJOeNg&q&adurl&ved=2ahUKEwiCq6KGhfv3AhVWhIkEHdyFCQ4Q0Qx6BAgDEAE](https://aws.amazon.com/pm/ec2/?trk=36c6da98-7b20-48fa-8225-4784bced9843&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Compute|EC2|US|EN|Text&s_kwcid=AL!4422!3!467723097970!e!!g!!aws%20ec2&ef_id=CjwKCAjwp7eUBhBeEiwAZbHwkea5I1WZJsEOGeP8tPUy-bP3_w5_VVv8CYHFXiQHzBukiipejTxzPBoClOoQAvD_BwE:G:s&s_kwcid=AL!4422!3!467723097970!e!!g!!aws%20ec2))
+
+<!-- <details>
 <summary>Click to toggle contents of `code`</summary>
 ```
 CODE!
 ```
-</details>
+</details> -->
